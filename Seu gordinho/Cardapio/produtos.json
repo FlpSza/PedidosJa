@@ -1,0 +1,150 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "Big Cheddar",
+        "descricao": "Pão, carne, cheddar, queijo, alface, tomate, maionese especial",
+        "imagem": "../images/lanche5.jpg",
+        "preco": "10.00"
+    },
+    {
+        "id": 1,
+        "titulo": "X Gordinho Especial",
+        "descricao": "3 Pães, 5 Carnes, 2 ovos, 5 queijos, bacon, calabresa, picles, cebola, alface, tomate, maionese especial, barbecue",
+        "imagem": "../images/lanche2.jpg",
+        "preco": "24.00"
+    },
+    {
+        "id": 2,
+        "titulo": "X Montanha",
+        "descricao": "3 Pães, 2 Carnes, ovo, 2 queijos, bacon, calabresa, alface, tomate, maionese especial",
+        "imagem": "../images/lanche.jpg",
+        "preco": "16.00"
+    },
+    {
+        "id": 3,
+        "titulo": "X Quarteirao",
+        "descricao": "3 Pães, 4 Carnes, 2 ovos, 4 queijos, bacon, calabresa, alface, tomate, maionese especial",
+        "imagem": "../images/lanche3.jpg",
+        "preco": "17.00"
+    },
+    {
+        "id": 4,
+        "titulo": "X-Tudo",
+        "descricao": "Pão, carne, bacon, ovo, queijo, calabresa, tomate, alface, maionese especial",
+        "imagem": "../images/lanche4.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 5,
+        "titulo": "Triplo Cheddar",
+        "descricao": "3 Pães, 3 Carnes, 3 queijos, cheddar, alface, tomate, maionese especial",
+        "imagem": "../images/lanche6.jpg",
+        "preco": "16.00"
+    },
+    {
+        "id": 6,
+        "titulo": "X Bacon",
+        "descricao": "Pão, carne, ovo, bacon, alface, tomate, maionese especial",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "12.00"
+    },
+    {
+        "id": 7,
+        "titulo": "X Salada",
+        "descricao": "Pão, carne, picles, cebola, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "9.00"
+    },
+    {
+        "id": 8,
+        "titulo": "X Gordinho",
+        "descricao": "Pão, carne, ovo, queijo, bacon, calabresa, picles, cebola, alface, tomate, maionese especial, barbecue",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "17.00"
+    },
+    {
+        "id": 9,
+        "titulo": "Duplo Cheddar",
+        "descricao": "Pão, 2 Carnes, Cheddar, 2 queijos, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 10,
+        "titulo": "X Triplo",
+        "descricao": "3 Pães, 3 Carnes, ovo, 3 queijos, bacon, calabresa, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "18.00"
+    },
+    {
+        "id": 11,
+        "titulo": "X Calabresa",
+        "descricao": "Pão, carne, ovo, queijo, calabresa, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "12.00"
+    },
+    {
+        "id": 12,
+        "titulo": "Hambúrguer",
+        "descricao": "Pão, carne, ovo, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "9.00"
+    },
+    {
+        "id": 13,
+        "titulo": "X Filé de Frango",
+        "descricao": "Pão, Filé de Frango, ovo, queijo, bacon, calabresa, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 14,
+        "titulo": "X Egg",
+        "descricao": "Pão, carne, ovo, queijo, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "10.00"
+    },
+    {
+        "id": 15,
+        "titulo": "X Filezinho",
+        "descricao": "Pão, Filé de Frango, queijo, cebola, picles, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "12.00"
+    },
+    {
+        "id": 16,
+        "titulo": "Triplo Gordinho",
+        "descricao": "3 Pães, 3 Carnes, ovo, 3 queijos, bacon, calabresa, picles, cebola, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "20.00"
+    },
+    {
+        "id": 17,
+        "titulo": "Duplo X Burguer",
+        "descricao": "Pão, 2 Carnes, 2 queijos, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "13.00"
+    },
+    {
+        "id": 18,
+        "titulo": "X Burguer",
+        "descricao": "Pão, Carne, queijo, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "9.00"
+    },
+    {
+        "id": 19,
+        "titulo": "Big Burguer",
+        "descricao": "Pão, Carne, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "9.00"
+    },
+    {
+        "id": 20,
+        "titulo": "Duplo Egg",
+        "descricao": "Pão, 2 Carnes, ovo, 2 queijos, alface, tomate, maionese especial",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "9.00"
+    }
+]
